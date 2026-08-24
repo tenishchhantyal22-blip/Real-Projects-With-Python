@@ -6,6 +6,8 @@
 # Mobile Phone Plan
 # Personl use
 
+# this data include per month data
+
 total_stipend = int(input("Enter The Total Stipend Per Month: "))
 
 dormitory_cost = int(input("Enter Monthly Dormitory Cost per month: "))
